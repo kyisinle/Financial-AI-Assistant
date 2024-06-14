@@ -14,6 +14,7 @@ API Keys are needed ( ALPHA VANTAGE )
 this is where AI will take data of stock price from
 
 IDE USED
-![alt text]([http://url/to/img.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png))
+![rKXaODLl_400x400](https://github.com/kyisinle/Python/assets/160147610/d16512a8-5adb-4953-a2a6-0c8a10c7eba6)
+
 
 PYTHON vr : 3.12.4
