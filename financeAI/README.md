@@ -16,5 +16,5 @@ this is where AI will take data of stock price from
 IDE USED
 https://code.visualstudio.com
 
-Languauge USED : Python
+Languauge USED : Python,
 PYTHON vr : 3.12.4
