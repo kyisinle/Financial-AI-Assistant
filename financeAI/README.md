@@ -9,9 +9,13 @@ pip install numpy
 Current Available Interactions/User Intents
 'get stock price'
 'calculate compound interest'
+'calculate simple interest'
+'convert currency'
+'help'
 
-API Keys are needed ( ALPHA VANTAGE )
-this is where AI will take data of stock price from
+API Keys are needed 
+( ALPHA VANTAGE ) : this is where AI will take data of stock price from
+( ExchangeRate API ) : this is where AI will take currency rate data from
 
 IDE USED
 https://code.visualstudio.com
