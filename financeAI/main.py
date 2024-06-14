@@ -15,13 +15,11 @@ def get_stock_price(symbol, api_key):
 # Example usage
 def example_fetch_stock_price():
     stock_symbol = 'AAPL'
-    api_key = 'MMA59VFVOI1Q68D8'  # Replace with your Alpha Vantage API key
+    api_key = 'your API KEY'  # Replace with your Alpha Vantage API key
     current_price = get_stock_price(stock_symbol, api_key)
     if current_price is not None:
         print(f'Current price of {stock_symbol}: ${current_price:.2f}')
 
-
-# Step 3: Performing Financial Calculations
 
 def calculate_compound_interest(principal, rate, time):
     amount = principal * (1 + rate / 100) ** time
@@ -38,8 +36,6 @@ def example_calculate_compound_interest():
     print(f'After {years} years at {annual_rate}% annual interest, '
           f'the final amount will be ${final_amount:.2f} (Interest earned: ${interest_earned:.2f})')
 
-
-# Step 4: Implementing Natural Language Processing (Optional)
 
 import nltk
 from nltk.tokenize import word_tokenize
@@ -62,8 +58,6 @@ def example_determine_intent():
     intent = determine_intent(user_message)
     print(f'User intent: {intent}')
 
-
-# Step 5: Putting It All Together
 
 if __name__ == "__main__":
     while True:
