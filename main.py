@@ -72,8 +72,8 @@ def print_help():
 
 # Main interaction loop
 if __name__ == "__main__":
-    api_key_stock = 'MMA59VFVOI1Q68D8'  # Replace with your Alpha Vantage API key
-    api_key_currency = 'd6a3947a5578b24ea3c5ce43'  # Replace with your ExchangeRate-API key
+    api_key_stock = 'your stock price API Key'  # Replace with your Alpha Vantage API key
+    api_key_currency = 'your currency API Key'  # Replace with your ExchangeRate-API key
 
     while True:
         user_input = input('How can I assist you? ')
