@@ -14,23 +14,24 @@ pip install requests
 pip install numpy
 ```
 
-**The command in one line**```pip install nltk requests numpy```
+**The command in one line**`pip install nltk requests numpy`
 
 ## Current Available Interactions/User Intents
-``` 
-get stock price  
-calculate compound interest  
-calculate simple interest  
-convert currency  
-help 
-``` 
+
+```
+get stock price
+calculate compound interest
+calculate simple interest
+convert currency
+help
+```
 
 ## API Keys are needed
 
-( [ALPHA VANTAGE](https://www.alphavantage.co/support/#api-key) ) : ```this is where AI will take data of stock price from```
+( [ALPHA VANTAGE](https://www.alphavantage.co/support/#api-key) ) : `this is where AI will take data of stock price from`
 
-( [ExchangeRate API](https://console.fastforex.io/auth/signin) ) : ```this is where AI will take currency rate data from```
+( [ExchangeRate API](https://console.fastforex.io/auth/signin) ) : `this is where AI will take currency rate data from`
 
-## **IDE USED** : https://code.visualstudio.com
+### **IDE USED** : [Visual Studio Code](https://code.visualstudio.com/download) + [SWI-Prolog vr : `8.4.3`](https://www.swi-prolog.org/download/stable/bin/swipl-8.4.3-1.x64.exe.envelope)
 
-## **Languauge USED** : [PYTHON vr : ```3.12.4```](https://www.python.org/downloads/)
+## **Languauge USED** : [PHP vr : `8.3`](https://www.php.net/)
